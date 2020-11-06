@@ -17,7 +17,7 @@
     <div id="kopf">
         <div id="profil">
             <div id="profil_img">
-                <img src="annakuebra.jpg" width="500 ">
+                <img src="https://i.ibb.co/stRKnyc/Anna-Kuebra.jpg" width="500 ">
             </div>
             <a>Anna´s Travel Blog</a>
             <p>Get to know me on my social channels</p>
