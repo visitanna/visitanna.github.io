@@ -36,7 +36,7 @@
 }
 #profil_img img {
     width:300px;
-    max-width:140%;
+    max-width:140% !important;
 }
 #social {
     background-color:#DADFE1;
