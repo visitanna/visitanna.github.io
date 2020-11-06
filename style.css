@@ -36,6 +36,7 @@
 }
 #profil_img img {
     width:300px;
+    max-width:140%;
 }
 #social {
     background-color:#DADFE1;
@@ -50,10 +51,6 @@
     line-height:50px;
     cursor:pointer;
 }
-.markdown-body img{
-    max-width:140%;
-}
-
 #Insta:hover {
 background-color: fuchsia;
 color:white;
