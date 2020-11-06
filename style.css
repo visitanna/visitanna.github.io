@@ -1,0 +1,62 @@
+#karte {
+    width:400px;
+    height:400px;
+    background-color:gray;
+    margin-left:auto;
+    margin-right:auto;
+    font-family: 'Raleway', sans-serif;
+}
+#kopf {
+    height:350px;
+    background-color:#59ABE3;  
+}
+#profil {
+    padding-top:50px;
+    width:250px;
+    height:300px;
+    margin-left:auto;
+    margin-right:auto;
+    color:white;
+    text-align:center;
+}
+#profil a {
+    font-weight:bold;
+}
+#profil p {
+   font-size:150%;     
+}
+#profil_img {
+    width:180px;
+    height:180px;
+    overflow:hidden;
+    border-radius:100%;
+    margin-left:auto;
+    margin-right:auto;   
+    margin-bottom:10px;
+}
+#profil_img img {
+    width:300px;
+}
+#social {
+    background-color:#DADFE1;
+    height:50px;
+}
+.box {
+   width:200px; 
+   height:50px;
+   float:left;
+    color:grey;
+    text-align:center;
+    line-height:50px;
+    cursor:pointer;
+}
+#Insta:hover {
+background-color: fuchsia;
+color:white;
+}
+#YT:hover {
+background-color:#bb0000;
+color:white;   
+}
+    
+    
