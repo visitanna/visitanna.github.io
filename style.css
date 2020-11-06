@@ -26,7 +26,7 @@
    font-size:150%;     
 }
 #profil_img {
-    width:2400px;
+    width:240px;
     height:240px;
     overflow:hidden;
     border-radius:100%;
@@ -50,6 +50,10 @@
     line-height:50px;
     cursor:pointer;
 }
+.markdown-body img{
+    max-width:140%;
+}
+
 #Insta:hover {
 background-color: fuchsia;
 color:white;
